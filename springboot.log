@@ -1,0 +1,86 @@
+2019-09-13 19:07:56.873  INFO 7096 --- [main] atlan.ceer.CampusUploadApplication       : Starting CampusUploadApplication on 侧耳倾听 with PID 7096 (F:\mytools\IntelliJ\workplace\campus_upload\target\classes started by lenovo in F:\mytools\IntelliJ\workplace\campus_upload)
+2019-09-13 19:07:57.042  INFO 7096 --- [main] atlan.ceer.CampusUploadApplication       : No active profile set, falling back to default profiles: default
+2019-09-13 19:08:00.843  INFO 7096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-09-13 19:08:00.880  INFO 7096 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 19:08:00.880  INFO 7096 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-13 19:08:01.254  INFO 7096 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 19:08:01.255  INFO 7096 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3862 ms
+2019-09-13 19:08:01.799  INFO 7096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 19:08:02.225  INFO 7096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-09-13 19:08:02.230  INFO 7096 --- [main] atlan.ceer.CampusUploadApplication       : Started CampusUploadApplication in 7.731 seconds (JVM running for 12.176)
+2019-09-13 19:11:42.674  INFO 7096 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-13 19:11:42.675  INFO 7096 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-13 19:11:42.686  INFO 7096 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2019-09-13 19:11:49.639  INFO 7096 --- [http-nio-8081-exec-3] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:Wqb6zi4Bf2O1ca0vr-ZA7QkMHX4=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzY3MDh9
+2019-09-13 19:28:28.977  INFO 13624 --- [main] atlan.ceer.CampusUploadApplication       : Starting CampusUploadApplication on 侧耳倾听 with PID 13624 (F:\mytools\IntelliJ\workplace\campus_upload\target\classes started by lenovo in F:\mytools\IntelliJ\workplace\campus_upload)
+2019-09-13 19:28:28.983  INFO 13624 --- [main] atlan.ceer.CampusUploadApplication       : No active profile set, falling back to default profiles: default
+2019-09-13 19:28:30.573  INFO 13624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-09-13 19:28:30.598  INFO 13624 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 19:28:30.598  INFO 13624 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-13 19:28:30.727  INFO 13624 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 19:28:30.728  INFO 13624 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1633 ms
+2019-09-13 19:28:30.939  INFO 13624 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 19:28:31.186  INFO 13624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-09-13 19:28:31.191  INFO 13624 --- [main] atlan.ceer.CampusUploadApplication       : Started CampusUploadApplication in 2.869 seconds (JVM running for 4.516)
+2019-09-13 19:28:34.816  INFO 13624 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-13 19:28:34.816  INFO 13624 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-13 19:28:34.825  INFO 13624 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-09-13 19:28:34.838  INFO 13624 --- [http-nio-8081-exec-1] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:28:37.616  INFO 13624 --- [http-nio-8081-exec-3] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:29:38.595  INFO 11692 --- [main] atlan.ceer.CampusUploadApplication       : Starting CampusUploadApplication on 侧耳倾听 with PID 11692 (F:\mytools\IntelliJ\workplace\campus_upload\target\classes started by lenovo in F:\mytools\IntelliJ\workplace\campus_upload)
+2019-09-13 19:29:38.603  INFO 11692 --- [main] atlan.ceer.CampusUploadApplication       : No active profile set, falling back to default profiles: default
+2019-09-13 19:29:40.132  INFO 11692 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-09-13 19:29:40.160  INFO 11692 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 19:29:40.161  INFO 11692 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-13 19:29:40.310  INFO 11692 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 19:29:40.311  INFO 11692 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1623 ms
+2019-09-13 19:29:40.578  INFO 11692 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 19:29:40.778  INFO 11692 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-09-13 19:29:40.782  INFO 11692 --- [main] atlan.ceer.CampusUploadApplication       : Started CampusUploadApplication in 2.904 seconds (JVM running for 4.447)
+2019-09-13 19:29:44.997  INFO 11692 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-13 19:29:44.998  INFO 11692 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-13 19:29:45.008  INFO 11692 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-09-13 19:29:45.031  INFO 11692 --- [http-nio-8081-exec-1] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:29:46.659  INFO 11692 --- [http-nio-8081-exec-3] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:29:49.841  INFO 11692 --- [http-nio-8081-exec-5] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:30:37.217  INFO 11692 --- [http-nio-8081-exec-8] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:31:47.598  INFO 3424 --- [main] atlan.ceer.CampusUploadApplication       : Starting CampusUploadApplication on 侧耳倾听 with PID 3424 (F:\mytools\IntelliJ\workplace\campus_upload\target\classes started by lenovo in F:\mytools\IntelliJ\workplace\campus_upload)
+2019-09-13 19:31:47.601  INFO 3424 --- [main] atlan.ceer.CampusUploadApplication       : No active profile set, falling back to default profiles: default
+2019-09-13 19:31:49.321  INFO 3424 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-09-13 19:31:49.353  INFO 3424 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 19:31:49.353  INFO 3424 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-13 19:31:49.538  INFO 3424 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 19:31:49.539  INFO 3424 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1879 ms
+2019-09-13 19:31:49.824  INFO 3424 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 19:31:50.012  INFO 3424 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-09-13 19:31:50.014  INFO 3424 --- [main] atlan.ceer.CampusUploadApplication       : Started CampusUploadApplication in 3.078 seconds (JVM running for 4.688)
+2019-09-13 19:32:46.891  INFO 3424 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-13 19:32:46.891  INFO 3424 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-13 19:32:46.899  INFO 3424 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2019-09-13 19:32:46.916  INFO 3424 --- [http-nio-8081-exec-1] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:32:53.820  INFO 3424 --- [http-nio-8081-exec-3] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:34:19.528  INFO 3424 --- [http-nio-8081-exec-5] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:34:28.928  INFO 3424 --- [http-nio-8081-exec-8] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:34:53.942  INFO 3424 --- [http-nio-8081-exec-10] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:35:39.412  INFO 3424 --- [http-nio-8081-exec-2] atlan.ceer.config.MyLogger               : MyInterceptor pre
+2019-09-13 19:35:40.830  INFO 3424 --- [http-nio-8081-exec-2] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:JdjCXN_2TTdHBXsiqTzF8Um0a6w=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzgxNDB9
+2019-09-13 19:35:40.901  INFO 3424 --- [http-nio-8081-exec-2] atlan.ceer.config.MyLogger               : MyInterceptor post
+2019-09-13 19:35:40.902  INFO 3424 --- [http-nio-8081-exec-2] atlan.ceer.config.MyLogger               : MyInterceptor after
+2019-09-13 19:41:23.633  INFO 11868 --- [main] atlan.ceer.CampusUploadApplication       : Starting CampusUploadApplication on 侧耳倾听 with PID 11868 (F:\mytools\IntelliJ\workplace\campus_upload\target\classes started by lenovo in F:\mytools\IntelliJ\workplace\campus_upload)
+2019-09-13 19:41:23.638  INFO 11868 --- [main] atlan.ceer.CampusUploadApplication       : No active profile set, falling back to default profiles: default
+2019-09-13 19:41:25.328  INFO 11868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2019-09-13 19:41:25.359  INFO 11868 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-09-13 19:41:25.360  INFO 11868 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-13 19:41:25.546  INFO 11868 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-09-13 19:41:25.547  INFO 11868 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1848 ms
+2019-09-13 19:41:25.782  INFO 11868 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-13 19:41:25.994  INFO 11868 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2019-09-13 19:41:25.998  INFO 11868 --- [main] atlan.ceer.CampusUploadApplication       : Started CampusUploadApplication in 3.141 seconds (JVM running for 4.699)
+2019-09-13 19:41:46.004  INFO 11868 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-13 19:41:46.004  INFO 11868 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-13 19:41:46.015  INFO 11868 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-09-13 19:41:47.345  INFO 11868 --- [http-nio-8081-exec-1] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:4qhQ61QLLrUM0yvlSwyioJ9Bpms=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzg1MDd9
+2019-09-13 19:41:52.683  INFO 11868 --- [http-nio-8081-exec-3] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:LbB5xuzFZLEbY3VsIbKlREFR-BU=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzg1MTJ9
+2019-09-13 19:41:53.802  INFO 11868 --- [http-nio-8081-exec-4] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:v-Ta2YNU_m_8pt-J5yxzyB95alQ=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzg1MTN9
+2019-09-13 19:41:55.596  INFO 11868 --- [http-nio-8081-exec-5] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:N7mGCRsxndwNPJKj1t3LMyZaSvo=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzg1MTV9
+2019-09-13 19:41:57.680  INFO 11868 --- [http-nio-8081-exec-6] atlan.ceer.config.MyLogger               : a12YWzAirPDlnESTsaXFbRGftCoqEeFR4YzLpW04:lRwtamVXRBjVu2gzVzzTETNYBhI=:eyJzY29wZSI6ImZzdXNlIiwiZGVhZGxpbmUiOjE1NjgzNzg1MTd9

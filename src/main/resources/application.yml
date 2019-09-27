@@ -1,0 +1,28 @@
+server:
+  port: 8081
+
+#日志
+logging:
+  #当前项目下生成springboot.log日志
+  file: springboot.log
+  #设置日志文件大小
+  file.max-size: 100MB
+  #保存三十天的日志
+  file.max-history: 30
+
+  #日志级别
+  level:
+    root: info
+    atlan.ceer: info
+
+#spring:
+#  jmx:
+#    #enabled: false
+#    default-domain: work2
+spring:
+  servlet:
+    multipart:
+      #设置单个文件的大小
+      max-file-size: 5MB
+      #设置单次请求的文件的总大小
+      max-request-size: 100MB

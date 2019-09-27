@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>测试</title>
+    <script src="static/js/jquery-3.1.1.min.js"></script>
+    <script src="static/js/test.js"></script>
+</head>
+
+<body>
+    <button id="test">测试按钮</button>
+    <form method="post">
+        <input type="text" id="username" placeholder="输入用户名">
+        <input type="text" id="password" placeholder="输入密码">
+        <input type="button" value="注册" id="register">
+    </form>
+    <button id="login">登录</button>
+    <button id="sendMessage">发送验证码</button>
+    <form action="./upload/images" method="post" enctype="multipart/form-data">
+        选择文件:<input type="file" name="image">
+        <input type="text" style="display: none" name="first" value="true">
+        <input type="submit" value="上传">
+    </form>
+    <form action="./upload/imagesCut" method="post" enctype="multipart/form-data">
+        选择文件裁剪:<input type="file" name="image">
+        <input type="submit" value="上传裁剪">
+    </form>
+</body>
+</html>
